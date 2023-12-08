@@ -41,3 +41,8 @@ npx playwright test Script_Name
 2. In the Test scripts Like Adding to cart and Purchasing the Product You must be sign in to your amazon.in account.
 
 3. You can change the product in all these test cases according to your choice. 
+
+
+##Documentation for differant Processes on amazon.in : https://docs.google.com/document/d/1LvGILwaT1NoHPnAByqeQBThQoOB3QQRr8wujuHEyvnU/edit?usp=sharing
+
+##Manaul test cases for rtPanel Website: https://docs.google.com/spreadsheets/d/1a62Tn4IXiRx_UzBia1k8IAo4pUi8yn96GQ8uzdx_3W4/edit?usp=sharing
